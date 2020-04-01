@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://openweathermap.org",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
